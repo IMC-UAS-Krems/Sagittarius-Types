@@ -4,4 +4,4 @@ export {
     Organisation,
     Project,
     Document,
-} from "@prisma/client";
+} from ".prisma/client";
